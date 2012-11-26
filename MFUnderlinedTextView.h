@@ -1,6 +1,6 @@
 /***********************************************************************************
  *
- * Copyright (c) 2010 Ye Bingwei
+ * Copyright (c) 2012 Ye Bingwei
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
